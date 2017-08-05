@@ -1,0 +1,13 @@
+{
+  "name": "colivingbr-mvp",
+  "version": "0.1.0",
+  "description": "MVP do projeto ColivingBR (https://colivingbr.com/).",
+  "private": true,
+  "main": "./src/index.js",
+  "repository": "https://github.com/co-livingbr/mvp.git",
+  "author": {
+    "url": "https://vitorluizc.github.io/",
+    "name": "Vitor Cavalcanti",
+    "email": "vitorluizc@outlook.com"
+  }
+}
